@@ -1,0 +1,1 @@
+Спасибо, Ваш запрос по адресу https://bitbucket.org/{{settings.api_login}}/{{settings.api_slug}}/issue/{{issue}} будет рассмотрен в ближайшее время.
