@@ -1,6 +1,6 @@
 workers = 1
 
-libs = ['/home/point/point/lib']
+libs = ['/home/point/core/lib']
 
 domain = 'point.im'
 
@@ -21,7 +21,7 @@ db = {
     'maxsize': 10
 }
 
-template_path = '/home/point/point/support/templates'
+template_path = '/home/point/support/templates'
 
 media_root = 'https://i.point.im/m'
 
